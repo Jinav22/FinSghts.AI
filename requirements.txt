@@ -1,0 +1,23 @@
+# Core Dependencies
+streamlit
+requests
+plotly
+
+# Data Processing
+pandas
+numpy
+
+# PDF Processing
+reportlab
+pypdf
+
+# AI & Machine Learning
+sentence-transformers
+faiss-cpu
+groq
+pydantic
+langchain
+llama-index
+
+# Development
+python-dotenv 
