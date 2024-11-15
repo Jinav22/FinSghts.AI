@@ -3,12 +3,6 @@
 
 Finsight is a cutting-edge finance AI assistant tailored to meet the needs of portfolio managers, investors, and finance enthusiasts. By leveraging `Groq` and financial data, Finsight provides deep insights and actionable summaries about a company, aiding in more informed investment decisions.
 
-![demo](docs/demo.gif)
-
-If you'd like to learn more about the technical details of FinSight, check out the LlamaIndex blogpost below where I do a deep dive into the project:
-           
-[How I built the Streamlit LLM Hackathon winning app — FinSight using LlamaIndex.](https://blog.llamaindex.ai/how-i-built-the-streamlit-llm-hackathon-winning-app-finsight-using-llamaindex-9dcf6c46d7a0)
-
 ## Features
 📊 **Finance Metrics Overview**:
 - Dive deep into core financial metrics extracted from the income statement, balance sheet, and cash flow.
@@ -35,8 +29,6 @@ If you'd like to learn more about the technical details of FinSight, check out t
 - **Sentence Transformers & FAISS**: Powers the document processing and similarity search capabilities.
 
 ## How to Use
-### Website Access: 
-Head over to [Finsight](https://finsight-report.streamlit.app/)
 
 ### **Local Setup**:
 
